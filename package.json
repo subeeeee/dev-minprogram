@@ -1,0 +1,22 @@
+{
+  "name": "dev-minprogram",
+  "version": "1.0.0",
+  "description": "小程序 开发",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subeeeee/dev-minprogram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subeeeee/dev-minprogram/issues"
+  },
+  "homepage": "https://github.com/subeeeee/dev-minprogram#readme",
+  "dependencies": {
+    "weui-miniprogram": "^1.0.6"
+  }
+}
